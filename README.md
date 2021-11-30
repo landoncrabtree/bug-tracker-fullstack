@@ -1,5 +1,5 @@
 # Bug Tracker - Fullstack
-### A functioning bug tracker website.
+A functioning bug tracker website.
 
 ## Features
 * Account Registration and Login System
